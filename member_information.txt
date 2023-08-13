@@ -1,0 +1,18 @@
+Member: Duy
+Username: sansukai
+Password: duyngo123
+Mb bank: 19931993
+PIN: 123
+Money: 600
+Member: Nam
+Username: sansukai1
+Password: duyngo123
+Viettin bank: 20122012
+PIN: 321
+Money: 3200
+Member: Hoa
+Username: sansukai2
+Password: duyngo123
+Angri bank: 20082008
+PIN: 333
+Money: 1000
