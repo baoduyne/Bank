@@ -1,4 +1,4 @@
-Chức năng : 
+ 
 1.Tạo bank với lãi xuất theo %.
 2.Tạo, xoá tài khoản người dùng.
 3.Tài khoản sẽ có chức năng gửi tiền, rút tiền, chuyển tiền , số tiền có sẵn trong tài khoản sẽ cộng thêm tuỳ vào lãi xuất mỗi ngân hàng .
