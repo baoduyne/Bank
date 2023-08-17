@@ -5,4 +5,3 @@
 
 (Toàn bộ thông tin người dùng sẽ được lưu vào file member_information , thông tin của bank sẽ lưu vào bank_information)
 
-Download all file to discover...
